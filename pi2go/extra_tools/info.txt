@@ -1,0 +1,7 @@
+This directory stores all of the 'Extra Tools' needed to make the Pi2Go library
+function properly. For the Pi2Go-lite most of this code is not needed but I have
+included it for the sake of completeness. Also it will come in handy for anyone
+using the full version of the Pi2Go.
+
+Happy Coding!
+
